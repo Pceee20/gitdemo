@@ -1,0 +1,26 @@
+Repo URL: https://github.com/Pceee20/mydemowebsite.git 
+$ git config --global user.name "Pceee20"
+$ 
+$ git config --list OR $ vi ~/.gitconfig
+$ mkdir project -- To create repo;
+*$ cd <directory> — navigates to specified directory;
+$ cd .. — navigates to parent directory;
+$ ls — lists directory contents;
+$ mkdir <directory> — creates a new directory;
+$ touch <file> — creates a new file.
+$ ll       For See the list of dir
+$ cd project/    For move inside the dir
+
+$ git init      To initialized repo, it told to git all files will store in this folder
+$ git status    To see the status
+$ cat index.html   To see the code on same terminal
+$ nano index.html Open html ide
+$ git add index.html   Add to this file
+$ git add . — adds all current changes to the next commit;
+$ git commit — commits previously staged files;
+
+$ git clone https://github.com/Pceee20/mydemowebsite.git(GIT URL)  --- Clone from any repo
+
+
+$cd ..   -- To come out  from repo;
+
